@@ -1,0 +1,23 @@
+html {
+    background-color: lightblue;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+h2 {
+    color: darkmagenta;
+    text-align: center;
+}
+
+p {
+    text-indent: 10px;
+    text-align: justify;
+}
+
+img {
+    text-align: center;
+    width: 400px;
+}
